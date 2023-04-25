@@ -1,3 +1,3 @@
 # Welcome to the GitHub Training
 
-You are in safe hands!
+You are in safe hands!!
